@@ -1,4 +1,4 @@
-{ console.log('   nested conditionals:');
+{ console.log('   nested conditionals: https://goo.gl/sDBKSQ');
 
   const values = [[0,1], [1,0], [0,false], [1,12], ['',' '], [' ','']];
   console.log(values);
@@ -26,4 +26,5 @@
 
     console.log('\n');
   };
+  console.log('   nested conditionals: https://goo.gl/sDBKSQ');
 }

@@ -1,4 +1,4 @@
-{ console.log('   !:');
+{ console.log('   !: https://goo.gl/2YuXM5');
         
   const values = [true, false, -1, 0, 0.0, 1, Infinity, NaN, '', ' ', null, undefined];                     
 
@@ -11,4 +11,6 @@
 
     console.log('\n');
   };
+
+  console.log('   !: https://goo.gl/2YuXM5');
 }

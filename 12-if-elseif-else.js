@@ -1,4 +1,4 @@
-{ console.log('   if, else if, else:');
+{ console.log('   if, else if, else: https://goo.gl/9mPCLF');
 
   const values = [[0,1], [1,0], [0,false], [1,12], ['',' '], [' ','']];
   console.log(values);
@@ -20,4 +20,6 @@
 
     console.log('\n');
   };
+
+  console.log('   if, else if, else: https://goo.gl/9mPCLF');
 }

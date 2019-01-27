@@ -1,4 +1,4 @@
-{ console.log('   if/else:');
+{ console.log('   if/else: https://goo.gl/XhXvc1');
         
   const values = [true, false, -1, 0, 0.0, 1, Infinity, NaN, '', ' ', null, undefined];                     
 
@@ -14,4 +14,6 @@
 
     console.log('\n');
   };
+
+  console.log('   if/else: https://goo.gl/XhXvc1');
 }

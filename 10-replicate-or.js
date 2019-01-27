@@ -1,4 +1,4 @@
-{ console.log('   replicate or:');
+{ console.log('   replicate or: https://goo.gl/Cuabaw');
 
   const values = [[0,1], [1,0], [0,false], [1,12], ['',' '], [' ','']];
   console.log('values: ', values);
@@ -23,4 +23,6 @@
 
     console.log('\n');
   };
+
+  console.log('   replicate or: https://goo.gl/Cuabaw');
 }

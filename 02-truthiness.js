@@ -1,4 +1,4 @@
-{ console.log('   truthiness:');
+{ console.log('   truthiness: https://goo.gl/VxwSw9');
         
   const values = [true, false, -1, 0, 0.0, 1, Infinity, NaN, '', ' ', null, undefined];                     
 
@@ -13,4 +13,6 @@
 
     console.log('\n');
   };
+
+  console.log('   truthiness: https://goo.gl/VxwSw9');
 }
