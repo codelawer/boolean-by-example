@@ -1,6 +1,6 @@
 ## Boolean By Example
 
-all [the good stuff](https://github.com/colevanderswands/boolean-by-example) is in the devtools.  
+all [the good stuff](https://colevanderswands.github.io/boolean-by-example) is in the devtools.  
 
 ___
 ___
