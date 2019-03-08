@@ -15,4 +15,4 @@
   };
 
   console.log('   truthiness: https://goo.gl/VxwSw9');
-}
+};

@@ -16,4 +16,4 @@
   };
 
   console.log('   !: https://goo.gl/iDvXEp');
-}
+};

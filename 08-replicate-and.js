@@ -25,4 +25,4 @@
   };
 
   console.log('   replicate and: https://goo.gl/dTYiva');
-}
+};

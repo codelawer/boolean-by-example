@@ -13,4 +13,4 @@
   };
 
   console.log('   !: https://goo.gl/2YuXM5');
-}
+};

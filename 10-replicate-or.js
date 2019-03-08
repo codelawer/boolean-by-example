@@ -25,4 +25,4 @@
   };
 
   console.log('   replicate or: https://goo.gl/Cuabaw');
-}
+};

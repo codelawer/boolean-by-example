@@ -21,4 +21,4 @@
   };
 
   console.log('   && and ||: https://goo.gl/sdg5ui');
-}
+};
