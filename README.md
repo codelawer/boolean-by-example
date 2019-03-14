@@ -215,7 +215,7 @@ You can study these examples either by inspecting the page and copy-pasting the 
 
 ## Not
 
-[on pytut](https://goo.gl/2YuXM5)
+[on pytut](https://goo.gl/1MkeCi)
 
 ```js
 { console.log('%c   !', 'font-weigh:bold');
