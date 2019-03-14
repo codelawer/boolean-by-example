@@ -75,7 +75,7 @@ You can study these examples either by inspecting the page and copy-pasting the 
 
 ## and or operators
 
-[on pytut](https://goo.gl/sdg5ui)
+[on pytut](https://goo.gl/Pj697v)
 
 ```js
 { console.log('%c   && and ||', 'font-weight:bold');
