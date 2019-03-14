@@ -20,7 +20,7 @@ You can study these examples either by inspecting the page and copy-pasting the 
 
 ## Truthiness
 
-[on pytut](https://goo.gl/VxwSw9)
+[on pytut](https://goo.gl/LFa2JC)
 
 ```js
 { console.log('%c   truthiness', 'font-weight:bold');
