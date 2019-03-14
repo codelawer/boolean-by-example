@@ -1,4 +1,4 @@
-{ console.log('   && and ||: https://goo.gl/sdg5ui');
+{ console.log('   && and ||: https://goo.gl/Pj697v');
 
   const values = [[0,1], [1,0], [0,0], [1,1], ['',' '], [' ','']];
   console.log('values: ', values);
@@ -20,5 +20,5 @@
     console.log('\n');
   };
 
-  console.log('   && and ||: https://goo.gl/sdg5ui');
+  console.log('   && and ||: https://goo.gl/Pj697v');
 };
